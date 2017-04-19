@@ -1,4 +1,7 @@
-# api documentation for  [xdg-basedir (v3.0.0)](https://github.com/sindresorhus/xdg-basedir#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-xdg-basedir.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-xdg-basedir) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-xdg-basedir.svg)](https://travis-ci.org/npmdoc/node-npmdoc-xdg-basedir)
+# npmdoc-xdg-basedir
+
+#### api documentation for  [xdg-basedir (v3.0.0)](https://github.com/sindresorhus/xdg-basedir#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-xdg-basedir.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-xdg-basedir) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-xdg-basedir.svg)](https://travis-ci.org/npmdoc/node-npmdoc-xdg-basedir)
+
 #### Get XDG Base Directory paths
 
 [![NPM](https://nodei.co/npm/xdg-basedir.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/xdg-basedir)
